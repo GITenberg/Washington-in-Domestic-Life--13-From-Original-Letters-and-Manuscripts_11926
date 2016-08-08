@@ -1,0 +1,24 @@
+_repo: Washington-in-Domestic-Life--13-From-Original-Letters-and-Manuscripts_11926
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rush, Richard
+    birthdate: 1780
+    deathdate: 1859
+    gutenberg_agent_id: '4136'
+    url: http://www.gutenberg.org/2009/agents/4136
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11926'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Washington, George, 1732-1799'
+- GITenberg
+title: "Washington in Domestic Life\r\nFrom Original Letters and Manuscripts"
+url: http://www.gutenberg.org/ebooks/11926
